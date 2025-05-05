@@ -1,4 +1,4 @@
 # project-demo
-This is my first Git Repository 
+Amazon clone 
 <br>
 Author - Alokit Sharma
